@@ -1,0 +1,30 @@
+.EightBall{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.question{
+    background-color: black;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.goldenrod{
+    background-color: goldenrod;
+}
+
+.EightBall-sentence{
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+}
